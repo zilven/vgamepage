@@ -47,6 +47,17 @@ body{
     margin: 0 auto; 
 
 }
+.box3 {
+    background: #161616; 
+    padding-top: 24px;
+    padding-left: 16px;
+    padding-right: 24px;
+    padding-bottom: 24px;
+
+     width: 53.8%;
+    margin: 0 auto; 
+
+}
 .boxxy {
 	
 	background: #242424;
@@ -101,9 +112,58 @@ p {
 
 
 .layer div {position: absolute;}
-.kuruma {top: -100px; left: -150px;}
-.minato {top: 330px; left: 250px;}
-.obito {top: 520px; left: 550px;}
-.landscape {top: 500px; left: -250px;}
-.grass {top: 700px; left: -250px;}
-.leaves {top: 350; left: 0px;}
+.trees1 {top: 50px; left: 0px;}
+.trees2 {top: 50px; left: 0px;}
+.trees3 {top: 50px; left: 0px;}
+
+/* navbar */
+.navbar-wrapper {
+    position: absolute;
+    top:0;
+    right:0;
+    left:0;
+    z-index: 20;
+}
+
+.navbar-wrapper > .container {
+    padding-right: 0;
+    padding-left: 0;
+}
+
+.navbar-wrapper .navbar {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.navbar-wrapper .navbar .container {
+    width: auto;
+}
+
+.carousel {
+    height: 576px;
+}
+
+.carousel-caption {
+    z-index: 10;
+}
+
+.carousel .item {
+    height: 576px;
+    background-color: #202020;
+    text-align: center;
+}
+
+
+.section2 .col-lg-4 {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.section2 h2 {
+    font-weight: normal;
+}
+
+.section2 .col-lg-4 p {
+    margin-right: 0px;
+    margin-left: 0px;
+}
