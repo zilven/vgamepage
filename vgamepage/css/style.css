@@ -1,0 +1,109 @@
+body{
+	background-color: #242424;
+ }
+
+ .main {
+ 	width: 70%;
+ 	background: #505050;  
+ 	margin: 0 auto; 
+    position: relative;  
+
+ }
+
+ .row{
+ 	width: 150%;
+    margin: 0 auto; 
+    position: relative; 
+
+ }
+ .lem{
+ 	position: relative;
+    left: 620px;
+ }
+.video iframe {
+	position: relative;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.box {
+	background: #161616; 
+	padding-top: 24px;
+	padding-bottom: 24px;
+	padding-left: 24px;
+	padding-right: 24px;
+
+	 width: 45%;
+ 	margin: 0 auto; 
+
+}
+.box2 {
+    background: #161616; 
+    padding-top: 24px;
+    padding-left: 24px;
+    padding-right: 24px;
+
+     width: 45%;
+    margin: 0 auto; 
+
+}
+.boxxy {
+	
+	background: #242424;
+	padding-top: 24px;
+
+	 width: 45%;
+ 	margin: 0 auto; 
+    position: relative;  
+}
+
+.video {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 30px; height: 0; overflow: hidden;
+}
+.lemdd {
+    position: relative;
+
+    padding-top: 30px; overflow: hidden;
+}
+ 
+.video iframe,
+.video object,
+.video embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.asdf{
+margin: 0 auto;
+}
+
+h1 {
+    font-family: 'Raleway', sans-serif;
+}
+
+p {
+    font-family: 'Raleway', sans-serif;
+}
+
+* { margin: 0; padding: 0;}
+
+.containertwo {
+    width: 100%;
+    height: 310px;
+    overflow: hidden;
+    position: relative;
+}
+
+
+.layer div {position: absolute;}
+.kuruma {top: -100px; left: -150px;}
+.minato {top: 330px; left: 250px;}
+.obito {top: 520px; left: 550px;}
+.landscape {top: 500px; left: -250px;}
+.grass {top: 700px; left: -250px;}
+.leaves {top: 350; left: 0px;}
